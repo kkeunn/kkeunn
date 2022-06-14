@@ -1,8 +1,8 @@
-### Hi there 👋
-# SONG YOUNG KEUN 😄
+
+# 🏃‍♂️Youngkeun Song
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkeunn&show_icons=true&theme=noctis_minimus)
 
-# Skills
+# 💪Skills
 ### Platforms & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF)
 ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=FFFFFF)
