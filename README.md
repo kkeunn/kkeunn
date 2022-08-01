@@ -3,6 +3,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkeunn&show_icons=true&theme=noctis_minimus)
 
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=syk0726)](https://solved.ac/syk0726)
+
 # 💪Skills
 ### Platforms & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF)
